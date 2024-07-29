@@ -1,3 +1,40 @@
 {
-  "cities": []
+  "cities": [
+    {
+      "id": "daca",
+      "cityName": "Villaseco de los Reyes",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-07-29T15:58:02.935Z",
+      "notes": "",
+      "position": {
+        "lat": "41.1455697310095",
+        "lng": "-6.064453125000001"
+      }
+    },
+    {
+      "id": "2cc3",
+      "cityName": "Porta",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-07-29T15:58:11.246Z",
+      "notes": "",
+      "position": {
+        "lat": "42.50450285299051",
+        "lng": "1.8017578125000002"
+      }
+    },
+    {
+      "id": "1107",
+      "cityName": "Assisi",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2024-07-29T15:58:18.004Z",
+      "notes": "",
+      "position": {
+        "lat": "43.11702412135048",
+        "lng": "12.568359375000002"
+      }
+    }
+  ]
 }
